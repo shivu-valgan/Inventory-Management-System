@@ -38,7 +38,7 @@ The **Inventory Management System Backend** is a robust application designed to 
    ```
 2.Configur Application Properties
 
-- Update the database connection details and other configurations as needed.
+   - Update the database connection details and other configurations as needed.
 
 3. Run the Springboot Application
 
