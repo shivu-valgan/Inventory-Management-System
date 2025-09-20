@@ -36,7 +36,8 @@ The **Inventory Management System Backend** is a robust application designed to 
    git clone https://github.com/shivu-valgan/Inventory-Management-System.git
    cd Inventory-Management-System
    ```
-2.Configur Application Properties
+   
+2. Configur Application Properties
 
    - Update the database connection details and other configurations as needed.
 
